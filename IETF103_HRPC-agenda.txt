@@ -1,0 +1,38 @@
+Agenda HRPC IETF 103
+
+# Welcome and introduction (5 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk by Arthit Suriyawongkul, Thai Netizen Network (30-40 minutes)
+
+	Title TBD
+
+# Talk by Ashwin Jacob Mathew, UC Berkeley (30-40 minutes)
+
+	Title TBD
+
+# Update from the Hackathon (15 minutes)
+
+# Update from the Human Rights Review Team (15 minutes)
+
+# Research Group drafts updates/discussions (20 minutes)
+
+	draft-irtf-hrpc-association
+	draft-irtf-hrpc-political
+	draft-irtf-hrpc-guidelines
+
+# Updates/discussions on drafts yet to be adopted by the RG (5 minutes)
+
+	draft-elkins-hrpc-ifilter
+
+# Open Discussion (15 minutes)
+
+	Check in on: Where is the research group's interests?
+	And on what topics do we want to work?
+	Other discussion on methodologies, maybe?
+
+# AOB
+
