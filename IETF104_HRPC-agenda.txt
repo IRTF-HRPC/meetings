@@ -1,0 +1,32 @@
+   Agenda HRPC IETF 104
+
+# Welcome and introduction (5 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk by TBD, Association for Progressive Communications (30 minutes)
+
+	Feminist Principles of the Internet
+
+# Talk by Farzaneh Badii, Internet Governance Project (30 minutes)
+
+        Methods for Protocol Analysis
+
+# Update from the Hackathon (15 minutes)
+
+# Update from the Human Rights Review Team (15 minutes)
+
+# Research Group drafts updates/discussions (15 minutes)
+
+	draft-irtf-hrpc-association
+	draft-irtf-hrpc-political
+	draft-irtf-hrpc-guidelines
+
+# Updates/discussions on drafts yet to be adopted by the RG (5 minutes)
+
+	draft-irtf-guerra-feminism (pending)
+	draft-irtf-badii-protocol-analysis (pending)
+
+# AOB (5 minutes)
