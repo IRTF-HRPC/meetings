@@ -20,13 +20,13 @@
 
 # Research Group drafts updates/discussions (15 minutes)
 
-	draft-irtf-hrpc-association
-	draft-irtf-hrpc-political
-	draft-irtf-hrpc-guidelines
+	draft-irtf-hrpc-association, Gisela Perez de Acha Chavez (remote) and Niels ten Oever (remote)
+	draft-irtf-hrpc-political, Gisela Perez de Acha Chavez (remote) and Niels ten Oever (remote)
+	draft-irtf-hrpc-guidelines, Gurshabad Grover
 
 # Updates/discussions on drafts yet to be adopted by the RG (5 minutes)
 
-	draft-irtf-guerra-feminism (pending)
-	draft-irtf-badii-protocol-analysis (pending)
+	draft-irtf-guerra-feminism, Juliana Guerra
+	pre-draft document "Methods for Protocol Analysis", Farzaneh Badii and Bradley Fidler (remote)
 
 # AOB (5 minutes)
