@@ -6,7 +6,7 @@
 	Agenda Review
 	Research Group status
 
-# Talk by TBD, Association for Progressive Communications (30 minutes)
+# Talk by Mallory Knodel, ARTICLE 19 (30 minutes)
 
 	Feminist Principles of the Internet
 
@@ -16,17 +16,17 @@
 
 # Update from the Hackathon (15 minutes)
 
-# Update from the Human Rights Review Team (15 minutes)
+# Update from Reviewers (15 minutes)
 
 # Research Group drafts updates/discussions (15 minutes)
 
+        draft-irtf-hrpc-guidelines, Gurshabad Grover and Niels ten Oever (remote)
 	draft-irtf-hrpc-association, Gisela Perez de Acha Chavez (remote) and Niels ten Oever (remote)
-	draft-irtf-hrpc-political, Gisela Perez de Acha Chavez (remote) and Niels ten Oever (remote)
-	draft-irtf-hrpc-guidelines, Gurshabad Grover
+	draft-irtf-hrpc-political, Amelia Andersdotter and Niels ten Oever (remote)
 
 # Updates/discussions on drafts yet to be adopted by the RG (5 minutes)
 
-	draft-irtf-guerra-feminism, Juliana Guerra
+	draft-guerra-feminism, Juliana Guerra and Mallory Knodel
 	pre-draft document "Methods for Protocol Analysis", Farzaneh Badii and Bradley Fidler (remote)
 
 # AOB (5 minutes)
