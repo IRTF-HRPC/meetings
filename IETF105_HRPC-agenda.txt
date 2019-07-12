@@ -1,0 +1,26 @@
+   Agenda HRPC IETF 105
+
+# Welcome and introduction (5 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk by JC de Martin (30 minutes)
+
+	Ethical and Socially Aware Data Labels: https://nexa.polito.it/node/1515
+
+# Updates/discussions on research group drafts (30 minutes)
+
+	draft-irtf-hrpc-association, Joe Hall and Stéphane Couture
+	draft-irtf-hrpc-political, Niels ten Oever (remote)
+
+# Update/discussion on draft not yet adopted by the RG (15 minutes)
+
+	draft-guerra-feminism, Juliana Guerra and Mallory Knodel
+
+# Update on the Guidelines draft and short presentations from reviewers (20 minutes)
+
+	draft-irtf-hrpc-guidelines, Gurshabad Grover and Niels ten Oever (remote)
+
+# AOB (10 minutes)
