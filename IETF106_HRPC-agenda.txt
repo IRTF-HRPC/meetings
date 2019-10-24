@@ -1,0 +1,23 @@
+   Agenda HRPC IETF 106
+
+# Welcome and introduction (5 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk: Jed Crandall, Arizona State University (30 minutes)
+
+	Borders and Gateways: Measuring and Analyzing National AS Chokepoints: https://forrest.biodesign.asu.edu/data/publications/2019-compass-chokepoints.pdf
+
+# Talk: John Mattsson, Ericsson (30 minutes)
+
+	5G Security, false base stations and IMSI catchers, and the great SIM heist and the need for PFS
+
+# Updates: Research group drafts (15 minutes each)
+
+	draft-irtf-hrpc-association, Joe Hall and Stéphane Couture
+	draft-irtf-hrpc-political, Niels ten Oever
+	draft-irtf-hrpc-guidelines, Gurshabad Grover
+
+# Discussion: Consensus building and research group drafts (15 minutes)
