@@ -17,7 +17,10 @@
 # Updates: Research group drafts (15 minutes each)
 
 	draft-irtf-hrpc-association, Joe Hall and Stéphane Couture
-	draft-irtf-hrpc-political, Niels ten Oever
+	draft-irtf-hrpc-political, Avri Doria
+
+# Update: Guidelines draft and short presentations from reviewers (15 minutes)
+
 	draft-irtf-hrpc-guidelines, Gurshabad Grover
 
 # Discussion: Consensus building and research group drafts (15 minutes)

@@ -1,0 +1,27 @@
+   Agenda HRPC IETF (107) Virtual Interim
+
+# Welcome and introduction (~0 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk: Fenwick McKelvey (30 minutes)
+
+	Internet Daemons: Network Optimization and Communication Rights
+
+# Talk: Gurshabad Grover (30 minutes)
+
+	How India Censors The Web https://cis-india.org/internet-governance/blog/how-india-censors-the-web
+
+# Updates: Research group drafts (10 minutes)
+
+	draft-irtf-hrpc-association, Stéphane Couture
+
+# Update: Guidelines draft and short presentations from reviewers (10 minutes)
+
+	draft-irtf-hrpc-guidelines, Gurshabad Grover
+
+# Discussion: Avri Doria (10 minutes)
+
+	Options for research publication

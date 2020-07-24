@@ -1,0 +1,116 @@
+# HRPC Meeting 28 March 2019
+
+## Presentation 1: FEMINIST PRINCIPLES OF THE INTERNET
+
+Mallory: Couldn't bring APC original authors, unfortunately, so will be giving presentation.
+
+References:
+apc.org
+feministinternet.net
+
+Categories of principles:
+
+ * Access
+ * Movement
+ * Economy
+ * Expression
+ * Embodiment
+
+APC organized several meetings over the world around these principles to get feedback from the community. #imagineAFeministInternet
+
+There's a draft around the Feminist Prinicples and how they specifically relate to Internet Protocols: https://tools.ietf.org/html/draft-guerra-feminism-00
+
+Please give feedback!
+
+More references:
+genderIT.org 
+erotics.apc.org
+giswatch.org
+takebackthetech.net
+#imagineafeministinternet
+#feministinternet
+
+Juliana (talking about feminism draft):
+
+DKG is awesome at being a resource and a help especially to newcomers! 
+Expression
+Feminist Principles of the Internet
+Gender
+next meeting is at IFF next week
+question from Niels, answered by Allison M on jabber
+
+### Questions
+
+Aanchal: the word Internet is capitalized inconsistently. Is this intentional?
+Juliana: not decided yet!
+
+Ted Lemon: intention to associate data with the statements around gendered language in RFCs?
+Juliana: yes! we will have data soon, stay tuned for the next draft!
+
+## Presentation 2: "Political Values in Technical Systems" by Farzaneh Badii (in person) and Bradley Fidler (remote)
+
+Trying to start healthy criticism of the group so as to move forward in path towards better analysis
+Technology affects society in context-independent and -dependent ways
+
+Bradley:
+RFC8280 has great goals but needs better methods 
+Method of the group has developed from "encode" to "enable" 
+Political impact is really hard and sometimes impossible
+Analysis of politlcal impact is only possible post-design, not before
+Design Descisions are context-dependent. Even post-facto, the same design decision will mean different things politically
+
+case study: BGP. Locked into one, has a political impact. Centralization in a sense?
+case study: DNS. DNS is attached to very different values and objectives in 10 year intervals.
+case study: IPv4. IP is responsible for the decentralized nature of the internet.
+
+Farzaneh: 
+we need a program for studying the human rights implications of complex systems
+
+### Questions
+
+Gurshabad Grover, CIS: agree that impossible to forsee entire impact of protocol. But so difficult that there is no point? Farzaneh: yes, accurately prediction is impossible. Bradley: Political considerations are not a good use of time while doing protocol dev. 
+
+Ted Lemon: we anticipated problems like the business model of FB and Google well in advance.  It's hard to make useful recommendations if you haven't lived through the decades of Internet dev. Might be useful to read books from the 80s around this. Bradley: thanks! have based DNS history off primary sources such as namedroppers listserv. Let's talk offline, if you have alternate sources would be very useful.
+
+Gabriel: is there a method for evaluating impact ex-ante? Need to be more scientific before having values in design and having a method
+
+Christian Huitema: what is the catastrophe that will happen because of the Internet? surveillance is one, govt or corporate. Farzaneh: to what extent did the IETF do/ can do anything about it?
+
+dkg: if we see evidence and analysis of past protocols, should this inform future protocols? or should we just keep doing past analysis? Bradley: cautioning against institutionalizing human rights considerations analysis. 
+
+Niels: do you feel the same way about security considerations? privacy? Bradley, Farzaneh: we understand those very well.
+
+## Drafts
+
+### Guidelines by Gurshabad Grover
+
+Have an etherpad link to collect all the reviews
+feedback please!
+Stephane: we need this, this is very important.
+
+### Freedom of association by Niels and Gisela
+
+comments? questions? RFC? will be stepping down as editors
+Joe Hall: sorry for sending in comments so late :( happy to send text. hope you can 
+Corinne: causality, ethnography, epistemic Niels: trying. but not sure how to proceed.
+Mallory: have someone in mind for reviews, could come to Montreal.
+Niels: does someone want to take over editorship given it's a RG doc
+Allison: the paper referenced by Star   is $30. can we have an appendix? https://journals.sagepub.com/doi/10.1177/00027649921955326
+GPdA: there is a lot of emotional labour that goes into this work, and that is especially taxing for WOC from the Global South. Can we talk about that?
+
+### Political by Niels
+
+Received extensive review by Michael Rogers
+Next steps?
+
+## Reviews
+
+Avri: human rights reviews? should feed into guidelines. Melinda: work with the folks, follow the DKG model
+Alyssa: naive to think that the reviews will be received not-seriously. Mallory: using the reviews to validate the effectiveness of the guidelines.
+Christian: try different models.
+Gurshabad: written a review, sometimes I can read a draft and figure out problems with it. Other is read RFC 8280 and helps. Helps both the WG and the RG
+Brook: need more diversity in NGI! 
+
+## Tech Advisors intro (was presented earlier in the session)
+
+dkg and Melinda Shore: give feedback guidance and a resource so that the RG can be of value to the IETF/IRTF
