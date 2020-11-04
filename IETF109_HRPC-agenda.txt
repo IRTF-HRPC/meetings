@@ -1,0 +1,25 @@
+      Agenda HRPC IETF 109
+
+# Welcome and introduction (~0 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk: TBD
+
+	TBD
+
+# TBD (Talk or 30 minutes to use for draft-association)
+
+# Updates: Research group drafts (10 minutes)
+
+	draft-irtf-hrpc-association, Mallory Knodel
+
+# Update: Guidelines draft and short presentations from reviewers (10 minutes)
+
+	draft-irtf-hrpc-guidelines, Gurshabad Grover
+
+# AOB
+
+	TBD
