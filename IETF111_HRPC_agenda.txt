@@ -1,0 +1,27 @@
+      Agenda HRPC IETF 111
+
+# Welcome and introduction (~0 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk: Anriette Esterhuysen (30 minutes)
+
+	"xxx"
+
+# Talk: Alex Linton and Sam de Silva (30 minutes)
+
+	"Identity and assembly: Creating a messaging architecture to support human rights"
+
+# Update on drafts (20 minutes)
+
+  TBD
+
+# Update on co-chair search and outreach (20 minutes)
+
+  TBD
+  
+# AOB (20 minutes)
+
+	TBD
