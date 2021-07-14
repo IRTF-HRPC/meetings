@@ -1,0 +1,27 @@
+      Agenda HRPC IETF 110
+
+# Welcome and introduction (~0 minutes)
+
+	Scribe, Note takers
+	Agenda Review
+	Research Group status
+
+# Talk: JoAnne Yates and Craig Murphy (30 minutes)
+
+	"Standardization in the Public Interest since 1880"
+
+# Talk: Sebastian Benthall (30 minutes)
+
+	"Towards a Data Science of Institutional Power: Progress with BigBang"
+
+# Update: Guidelines draft and short presentations from reviewers (20 minutes)
+
+	draft-irtf-hrpc-guidelines, Gurshabad Grover
+
+# Update: Association draft (20 minutes)
+
+	draft-irtf-hrpc-association, Niels ten Oever and Lisa Vermeer
+
+# AOB (20 minutes)
+
+	TBD
