@@ -10,7 +10,7 @@
 
 	"The global Internet Governance Forum: It's history and the future"
 
-# Talk: Alex Linton and Sam de Silva (30 minutes)
+# Talk: Kee Jefferys (30 minutes)
 
 	"Identity and assembly: Creating a messaging architecture to support human rights"
 
