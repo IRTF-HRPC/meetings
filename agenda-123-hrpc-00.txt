@@ -1,0 +1,20 @@
+Human Rights Protocol Considerations (hrpc) RG
+https://datatracker.ietf.org/rg/hrpc/about/
+
+IETF 123, Madrid
+2025-07-21 1700-1900 local time
+Sofia Celi and Mallory Knodel, co-chairs
+
+Agenda:
+
+# Welcome and Introduction: Intro and Note Well - 10 min
+
+# Talk: Maria Farrell, Author of "We Need To Rewild The Internet" - 30 min
+
+# Talk: TBC, Ainita.net on "Censorship in Iran" - 30 min
+
+# Talk: Chantal Joris, ARTICLE 19 expert on "Techno-legal frameworks applicable in armed conflict" - 30 min
+
+# IPV draft - Sofia Celi - 10 min
+
+All other RG business - remainder
